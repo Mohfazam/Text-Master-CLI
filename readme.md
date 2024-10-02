@@ -1,9 +1,15 @@
-#Custom CLI.
+# TextMaster CLI
 
-module used: Commander.js
+**TextMaster CLI** is a powerful command-line tool designed to perform various text and file operations with ease. Initially, it provides the ability to count words and lines in a file, with future features planned, such as converting text to uppercase, analyzing text data, and more.
 
-execution syntax : node "js file name" "module utility" "file name"
+### Features:
+- Count the number of words in a file.
+- Plan to add more functionalities like:
+  - Line counting
+  - Uppercasing entire file text
+  - File search features
+  - And more...
 
+Stay tuned for updates!
 
--Current Utilities
--1 count-words: Counts thenumbr of words present in the file
+---
